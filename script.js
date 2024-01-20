@@ -97,7 +97,7 @@ class CreateParticles {
 
 		this.data = {
 
-			text: 'Félicitation\n Laravel Developer',
+			text: 'Félicitation\nLaravel Developer',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
